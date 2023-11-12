@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"swineact.anim": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"bone3": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [3, 0, 0],
+						"1.5": [-3, 0, 0],
+						"2.0": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

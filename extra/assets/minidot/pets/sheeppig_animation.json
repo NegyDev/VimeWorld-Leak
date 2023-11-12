@@ -1,0 +1,32 @@
+{
+	"format_version": 1,
+	"animations": {
+		"SheepPig": {
+			"loop": false,
+			"bones": {
+				"Nose": {
+					"position": {
+						"0": {
+							"x": "0",
+							"y": "0",
+							"z": "0",
+							"easing": "linear"
+						},
+						"0.08": {
+							"x": "0",
+							"y": "0.5",
+							"z": "0",
+							"easing": "linear"
+						},
+						"0.16": {
+							"x": "0",
+							"y": "0.0",
+							"z": "0",
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		}
+	}
+}

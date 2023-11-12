@@ -1,0 +1,80 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"hikingbackpack.animation": {
+			"loop": true,
+			"animation_length": 2.28,
+			"bones": {
+				"sleeping_bags": {
+					"rotation": {
+						"1.16": {
+							"pre": [0, 0, 0],
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.44": {
+							"post": [1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.88": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"bottle": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.24": {
+							"post": [2.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.72": {
+							"post": [-1, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.12": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"lamp": {
+					"rotation": {
+						"0.0": {
+							"post": [20, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.52": {
+							"post": [24.71975, -3.40487, 9.40804],
+							"lerp_mode": "catmullrom"
+						},
+						"1.12": {
+							"post": [22.42645, 0.80212, 0.33165],
+							"lerp_mode": "catmullrom"
+						},
+						"1.48": {
+							"post": [20, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"position": {
+						"0.0": {
+							"post": [0, -2.5, -0.875],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"scale": {
+						"0.0": {
+							"post": [0.8, 0.8, 0.8],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"format_version": 1,
+	"animations": {
+		"hypno.spin": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": {
+							"x": "0",
+							"y": "0",
+							"z": "0",
+							"easing": "linear"
+						},
+						"1.0": {
+							"x": "0",
+							"y": "0",
+							"z": "-360",
+							"easing": "linear"
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"x": "0",
+							"y": "0",
+							"z": "0",
+							"easing": "linear"
+						},
+						"1.0": {
+							"x": "0",
+							"y": "0",
+							"z": "360",
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		}
+	}
+}

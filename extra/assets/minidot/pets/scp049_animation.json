@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"doctor.animation": {
+			"animation_length": 4.16,
+			"bones": {
+				"syringe": {
+					"position": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.08": {
+							"post": [0, 4, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"4.16": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

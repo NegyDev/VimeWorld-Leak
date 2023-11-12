@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"lollipopsbag.animation": {
+			"loop": true,
+			"bones": {
+				"bone6": {
+					"position": [0, 4, 0],
+					"scale": [0.8, 0.8, 1]
+				},
+				"bone": {
+					"position": [0.3, 0, 0]
+				},
+				"bone8": {
+					"position": [0, 0, -0.4]
+				},
+				"bone11": {
+					"position": [0, 0, -0.8]
+				},
+				"bone12": {
+					"position": [0, -1, 0]
+				}
+			}
+		}
+	}
+}

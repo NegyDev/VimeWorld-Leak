@@ -1,0 +1,43 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"leaf.rotating": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"leafs1": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 10],
+							"lerp_mode": "catmullrom"
+						},
+						"3.0": {
+							"post": [0, 0, 40],
+							"lerp_mode": "catmullrom"
+						},
+						"6.0": {
+							"post": [0, 0, 10],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"leafs2": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, -10],
+							"lerp_mode": "catmullrom"
+						},
+						"3.0": {
+							"post": [0, 0, -40],
+							"lerp_mode": "catmullrom"
+						},
+						"6.0": {
+							"post": [0, 0, -10],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

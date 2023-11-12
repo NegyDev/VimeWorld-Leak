@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "verdant_froglight" },
+    "axis=z": { "model": "verdant_froglight_side" },
+    "axis=x": { "model": "verdant_froglight_side", "y": 90 }
+  }
+}

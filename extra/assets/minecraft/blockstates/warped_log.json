@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "axis=y":  { "model": "warped_log" },
+    "axis=z":   { "model": "warped_log_side" },
+    "axis=x":   { "model": "warped_log_side", "y": 90 },
+    "axis=none": { "model": "warped_bark" }
+  }
+}

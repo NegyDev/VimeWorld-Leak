@@ -1,0 +1,7 @@
+{
+  "parent": "block/column_side",
+  "textures": {
+    "end": "blocks/crimson_stem_top",
+    "side": "blocks/crimson_stem"
+  }
+}

@@ -1,0 +1,106 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"wardenpet.animation": {
+			"loop": true,
+			"animation_length": 3.12,
+			"bones": {
+				"body": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.76": {
+							"post": [-2.5, 0, 2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.56": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.32": {
+							"post": [2.5, 0, -2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"3.12": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"hands": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.76": {
+							"post": [5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.56": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.32": {
+							"post": [-5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"3.12": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"head": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.76": {
+							"post": [-2.5, 0, 5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.56": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.32": {
+							"post": [2.5, 0, -5],
+							"lerp_mode": "catmullrom"
+						},
+						"3.12": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"horns": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.04": [0, 0, 0],
+						"1.16": [0, 0, -10],
+						"1.28": [0, 0, 0],
+						"1.4": [0, 0, -10],
+						"1.52": [0, 0, 0],
+						"1.64": [0, 0, -10],
+						"1.76": [0, 0, 0]
+					}
+				},
+				"horns2": {
+					"rotation": {
+						"1.04": [0, 0, 0],
+						"1.16": [0, 0, 10],
+						"1.28": [0, 0, 0],
+						"1.4": [0, 0, 10],
+						"1.52": [0, 0, 0],
+						"1.64": [0, 0, 10],
+						"1.76": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

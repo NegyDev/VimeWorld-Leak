@@ -1,0 +1,40 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"peacock.default": {
+			"loop": true,
+			"animation_length": 3.48,
+			"bones": {
+				"Peacock": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.8": {
+							"post": [0, 0, -2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.72": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.64": {
+							"post": [0, 0, 2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"3.48": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"scale": {
+						"0.0": [0.8, 0.8, 0.8],
+						"1.72": [0.82, 0.82, 0.82],
+						"3.48": [0.8, 0.8, 0.8]
+					}
+				}
+			}
+		}
+	}
+}

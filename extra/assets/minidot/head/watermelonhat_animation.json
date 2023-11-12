@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"watermelonhat.animation": {
+			"loop": true,
+			"animation_length": 1.75,
+			"bones": {
+				"bonethree": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [-5.5, 0, 0],
+						"1.25": [5.5, 0, 0],
+						"1.7083": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

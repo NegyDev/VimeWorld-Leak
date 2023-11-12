@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "ochre_froglight" },
+    "axis=z": { "model": "ochre_froglight_side" },
+    "axis=x": { "model": "ochre_froglight_side", "y": 90 }
+  }
+}

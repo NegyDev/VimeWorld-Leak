@@ -1,0 +1,51 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.model.new": {
+			"loop": true,
+			"animation_length": 3.12,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.24": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.36": {
+							"post": [0, 0, -12.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.56": {
+							"post": [0, 0, 17.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, -15],
+							"lerp_mode": "catmullrom"
+						},
+						"1.96": {
+							"post": [0, 0, 17.5],
+							"lerp_mode": "catmullrom"
+						},
+						"2.16": {
+							"post": [0, 0, -15],
+							"lerp_mode": "catmullrom"
+						},
+						"2.36": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"3.12": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

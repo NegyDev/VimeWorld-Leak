@@ -1,0 +1,18 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"facehugger.anim": {
+			"loop": true,
+			"animation_length": 0.66667,
+			"bones": {
+				"bone4": {
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.3333": [1.05, 1.1, 1.1],
+						"0.6667": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}

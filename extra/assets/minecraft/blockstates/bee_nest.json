@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bee_nest" },
+    "facing=south": { "model": "bee_nest", "y": 180 },
+    "facing=west":  { "model": "bee_nest", "y": 270 },
+    "facing=east":  { "model": "bee_nest", "y": 90 }
+  }
+}

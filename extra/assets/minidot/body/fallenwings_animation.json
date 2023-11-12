@@ -1,0 +1,83 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"wings.default": {
+			"loop": true,
+			"animation_length": 1.76,
+			"override_previous_animation": true,
+			"bones": {
+				"TheFirstWing": {
+					"rotation": {
+						"0.0": {
+							"post": [0, -25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.88": {
+							"post": [0, 12.35, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, -25, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"TheFallenWings": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.88": {
+							"post": [5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"PartTwo2": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.88": {
+							"post": [20, 77.5, 2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"TheSecondWing": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.88": {
+							"post": [0, -12.35, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 25, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"PartTwo": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.88": [20, -77.5, -2.5],
+						"1.76": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

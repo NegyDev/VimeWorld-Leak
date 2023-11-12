@@ -1,0 +1,61 @@
+{
+	"format_version": 1,
+	"animations": {
+		"laughter": {
+			"bones": {
+				"bone": {
+					"position": {
+						"0.5": {
+							"x": "0",
+							"y": "0",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.55": {
+							"x": "0",
+							"y": "0.5",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.6": {
+							"x": "0",
+							"y": "-0.5",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.65": {
+							"x": "0",
+							"y": "0.5",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.7": {
+							"x": "0",
+							"y": "-0.5",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.75": {
+							"x": "0",
+							"y": "0.5",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.8": {
+							"x": "0",
+							"y": "-0.5",
+							"z": "0",
+							"easing": "easeInExpo"
+						},
+						"0.85": {
+							"x": "0",
+							"y": "0",
+							"z": "0",
+							"easing": "easeInExpo"
+						}
+					}
+				}
+			}
+		}
+	}
+}

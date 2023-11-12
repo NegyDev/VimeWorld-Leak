@@ -1,0 +1,7 @@
+{
+  "parent": "block/column_side",
+  "textures": {
+    "end": "blocks/pearlescent_froglight_top",
+    "side": "blocks/pearlescent_froglight_side"
+  }
+}

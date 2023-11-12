@@ -1,0 +1,141 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"grandmayaga.animation": {
+			"loop": true,
+			"animation_length": 1.8,
+			"override_previous_animation": true,
+			"bones": {
+				"Head": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.6": {
+							"post": [0, 0, -2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.16": {
+							"post": [0, 0, 2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Eyebrows": {
+					"position": {
+						"0.44": {
+							"pre": [0, 0, 0],
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.64": {
+							"post": [0, -1, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.84": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Eyes": {
+					"scale": {
+						"0.44": {
+							"pre": [1, 1, 1],
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"0.64": {
+							"post": [1, 0, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"0.84": {
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"BellyXD": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.84": {
+							"post": [-5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"RightHand": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.84": {
+							"post": [0, 0, -3],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"LeftHand": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.84": {
+							"post": [0, 0, 7.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"GrandmaYaga": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.52": {
+							"post": [-2.5, 0, -2.5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.08": {
+							"post": [2.5, 0, 5],
+							"lerp_mode": "catmullrom"
+						},
+						"1.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"BoobsAhah": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.56": [-7.5, 0, 0],
+						"1.04": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

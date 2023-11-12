@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"fan": {
+			"loop": true,
+			"animation_length": 0.36,
+			"bones": {
+				"fan": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.36": [0, 0, 360]
+					},
+					"scale": {
+						"0.0": {
+							"post": [0.85, 0.85, 0.85],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

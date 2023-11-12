@@ -1,0 +1,7 @@
+{
+  "parent": "block/column_side",
+  "textures": {
+    "end": "blocks/stripped_crimson_stem_top",
+    "side": "blocks/stripped_crimson_stem"
+  }
+}

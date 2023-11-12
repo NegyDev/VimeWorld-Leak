@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"rotating": {
+			"loop": true,
+			"animation_length": 6.08,
+			"bones": {
+				"bone10": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"3.4": {
+							"post": [-2.5, 0, 10],
+							"lerp_mode": "catmullrom"
+						},
+						"6.08": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

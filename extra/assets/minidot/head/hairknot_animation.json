@@ -1,0 +1,43 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"hairknot.animation": {
+			"loop": true,
+			"animation_length": 3.76,
+			"bones": {
+				"rope2": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [-0.59196, 3.40487, -19.71975],
+							"lerp_mode": "catmullrom"
+						},
+						"3.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"rope1": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [-0.74751, -3.81024, 22.19157],
+							"lerp_mode": "catmullrom"
+						},
+						"3.76": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

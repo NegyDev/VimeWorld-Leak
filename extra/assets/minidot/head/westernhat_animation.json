@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"westernhat.animation": {
+			"loop": true,
+			"animation_length": 3,
+			"bones": {
+				"bone18": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.5": {
+							"post": [4.54915, -9.3388, -4.12467],
+							"lerp_mode": "catmullrom"
+						},
+						"3.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}
